@@ -9,7 +9,7 @@ header {background-color: #886F6F; color: cornsilk;}
 section {background-color:#C1A3A3;}
 footer {background-color:#F3C5C5 ; color: #a3215e;}
 
-img {border-radius: 15px; border:5pt; border-color: #1a1718;}
+img {border-radius: 15px; border:solid; border: width 5px; ; border-color: #694E4E;}
 a {color:rgb(214, 83, 231)}
 
 
