@@ -1,0 +1,21 @@
+body{
+    color:#b32668;
+    background-color:#694E4E;
+    font-size: x-large;
+    font-family: sans-serif;
+    list-style-position: inside;
+}
+header {background-color: #886F6F; color: cornsilk;}
+section {background-color:#C1A3A3;}
+footer {background-color:#F3C5C5 ; color: #a3215e;}
+
+img {border-radius: 15px; border:5pt; border-color: #1a1718;}
+a {color:rgb(214, 83, 231)}
+
+
+.footer_li_color {color:#F9D371;}
+
+.renk_yellow {color: #F9D371;}
+.renk_orange {color: #F47340;}
+.renk_pink {color: #EF2F88 ;}
+.renk_purple {color:#8843F2;}
